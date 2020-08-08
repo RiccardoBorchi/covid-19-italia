@@ -1,7 +1,5 @@
 # Covid-19 Italia
 
-I dati del <strong>Coronavirus</strong> (Covid-19) in Italia.
-
 Questa applicazione web mostra alcuni dati relativi al contagio da <strong>Covid-19</strong> in Italia.
 
 I dati mostrati sono i seguenti:
@@ -18,4 +16,4 @@ I dati sono messi a disposizione dalla Protezione Civile con licenza <a href="ht
 
 ---
 
-Sempre utilizzando i dati messi a disposizione dalla Protezione Civile (forniti dal Ministero della Salute) è stato realizzato un sito web per monitorare, in modo dettagliato, regione per regione, provincia per provincia, l'andamento del Coronavirus. Il sito web è www.curaitalia.it.
+Sempre utilizzando i dati messi a disposizione dalla Protezione Civile (forniti dal Ministero della Salute) è stato realizzato un sito web che monitora, in modo dettagliato, regione per regione, provincia per provincia, l'andamento del Coronavirus, raccogliendo anche informazioni, notizie e link utili. Il sito web è www.curaitalia.it.
