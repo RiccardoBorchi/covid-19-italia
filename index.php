@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="it-IT" dir="ltr">
+<html lang="it-IT">
    <head>
       <meta charset="utf-8">
       <title>Covid-19 Italia</title>
