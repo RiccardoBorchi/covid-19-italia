@@ -80,9 +80,12 @@
             </div>
          </div>
 
-         <div class="row text-center my-5">
-            <p class="text-small">Ultimo aggiornamento: <strong><?php echo date('d/m/Y - H:i', strtotime($data)); ?></strong><br/>Fonte: <a href="http://www.salute.gov.it/" target="_blank" rel="noreferrer">Ministero della Salute</a> / <a href="http://www.protezionecivile.gov.it" target="_blank">Protezione Civile</a></p>
-         </div>
+         <p class="text-center my-5">Ultimo aggiornamento: <strong><?php echo date('d/m/Y - H:i', strtotime($data)); ?></strong>
+            <br/>
+            Fonte: <a href="http://www.salute.gov.it/" target="_blank" rel="noreferrer">Ministero della Salute</a> / <a href="http://www.protezionecivile.gov.it" target="_blank">Protezione Civile</a>
+            </br/>
+            Licenza dataset: <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC-BY-4.0</a> (<a href="https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE">Visualizza licenza</a>)
+         </p>
       </div>
    </body>
 </html>
