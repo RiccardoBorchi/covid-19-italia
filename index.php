@@ -80,7 +80,7 @@
             </div>
          </div>
 
-         <div class="row text-center margin-t-xs">
+         <div class="row text-center my-5">
             <p class="text-small">Ultimo aggiornamento: <strong><?php echo date('d/m/Y - H:i', strtotime($data)); ?></strong><br/>Fonte: <a href="http://www.salute.gov.it/" target="_blank" rel="noreferrer">Ministero della Salute</a> / <a href="http://www.protezionecivile.gov.it" target="_blank">Protezione Civile</a></p>
          </div>
       </div>
