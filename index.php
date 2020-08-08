@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="it-IT" dir="ltr">
    <head>
       <meta charset="utf-8">
       <title>Covid-19 Italia</title>
@@ -19,10 +19,6 @@
          foreach($json_nazionale as $stato) {
             $nuovi_positivi = $stato['nuovi_positivi'];
             $totale_positivi = number_format($stato['totale_positivi'], 0, ',', '.');
-            $variazione_totale_positivi = number_format($stato['variazione_totale_positivi'], 0, ',', '.');
-            if($variazione_totale_positivi > 0) {
-               $variazione_totale_positivi = '+' . $variazione_totale_positivi;
-            }
             $dimessi_guariti = number_format($stato['dimessi_guariti'], 0, ',', '.');
             $deceduti = number_format($stato['deceduti'], 0, ',', '.');
             $totale_casi = number_format($stato['totale_casi'], 0, ',', '.');
