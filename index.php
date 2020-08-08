@@ -84,7 +84,7 @@
             <br/>
             Fonte: <a href="http://www.salute.gov.it/" target="_blank" rel="noreferrer">Ministero della Salute</a> / <a href="http://www.protezionecivile.gov.it" target="_blank">Protezione Civile</a>
             </br/>
-            Licenza dataset: <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC-BY-4.0</a> (<a href="https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE">Visualizza licenza</a>)
+            Licenza dataset: <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC-BY-4.0</a> (<a href="https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE" target="_blank">Visualizza licenza</a>)
          </p>
       </div>
    </body>
