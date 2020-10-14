@@ -17,7 +17,7 @@
          $json_nazionale = json_decode($json, true);
 
          foreach($json_nazionale as $stato) {
-            $nuovi_positivi = $stato['nuovi_positivi'];
+            $nuovi_positivi = number_format($stato['nuovi_positivi'], 0, ',', '.');
             $totale_positivi = number_format($stato['totale_positivi'], 0, ',', '.');
             $dimessi_guariti = number_format($stato['dimessi_guariti'], 0, ',', '.');
             $deceduti = number_format($stato['deceduti'], 0, ',', '.');
