@@ -95,7 +95,7 @@
             Licenza dataset: <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC-BY-4.0</a> (<a href="https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE" target="_blank">Visualizza licenza</a>)
          </p>
 
-         <p class="text-center">L'andamento complessivo del Coronavirus (COVID-19) è monitorabile su <a href="https://www.curaitalia.it/">www.curaitalia.it</a></p>
+         <p class="text-center">L'andamento complessivo del Coronavirus (COVID-19) in Italia (regione per regione, provincia per provincia) e nel mondo (stato per stato) è monitorabile su <a href="https://www.curaitalia.it/">www.curaitalia.it</a></p>
       </div>
    </body>
 </html>
