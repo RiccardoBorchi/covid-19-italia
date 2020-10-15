@@ -1,4 +1,4 @@
-# Covid-19 Italia
+# Dati COVID-19 Italia
 
 Questa applicazione web mostra alcuni dati relativi al contagio da <strong>Covid-19</strong> in Italia.
 
@@ -9,6 +9,7 @@ I dati mostrati sono i seguenti:
 - Deceduti
 - Positivi attuali
 - Totale casi
+- Tamponi
 
 # Dati
 
