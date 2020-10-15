@@ -52,6 +52,22 @@ html, body {
    display: block;
 }
 
+.icon-box .content.small .icon-title {
+	font-size: 1.2rem;
+	margin-bottom: 0.5rem;
+}
+
+.icon-box .content.small .number {
+	font-size: 2rem;
+	margin: 0.5rem 0 0 0;
+}
+
+.icon-box .content.small span {
+	font-size: 1rem;
+	margin-top: 0.5rem;
+}
+
+
 /* TYPOGRAPHY */
 
 body {
